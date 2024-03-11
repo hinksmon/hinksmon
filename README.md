@@ -11,7 +11,7 @@ My journey in learning everything I can about computers has led me to develop a 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Alert Creation          | <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -52,5 +52,5 @@ My journey in learning everything I can about computers has led me to develop a 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>
 - SOC Automation Project

@@ -38,7 +38,8 @@ My journey in learning everything I can about computers has led me to develop a 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
 </div>
 
 ## Certifications

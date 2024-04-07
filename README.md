@@ -12,8 +12,8 @@ My journey in learning everything I can about computers has led me to develop a 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Alert Creation          | <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Implementing-A-SOC-and-Honeynet-In-Azure         | <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a> |
+| Creating and Configuring a Network | <a href="https://github.com/hinksmon/Simple-Office-Network-using-Packet-Tracer)">Simple Office Network using Packet Tracer</a>|
+| Creating a Honeynet and monitoring  and geotagging traffic to the honeynet       | <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab
@@ -55,4 +55,5 @@ My journey in learning everything I can about computers has led me to develop a 
 
 ## Projects
 - <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/hinksmon/Simple-Office-Network-using-Packet-Tracer)">Simple Office Network using Packet Tracer</a>
+- <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a>

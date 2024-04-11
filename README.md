@@ -6,7 +6,7 @@ I am a self taught cybersecurity student with a profound interest in technology 
 
 ## Objective
 
-My journey in learning everything I can about computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in learning everything I can about computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Systems Administrator 1 or Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 | Skill                                         | Associated Project         |

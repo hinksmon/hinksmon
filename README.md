@@ -13,8 +13,8 @@ My journey in learning everything I can about computers has led me to develop a 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Alert Creation          | <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>|
 | Creating and Configuring a Network | <a href="https://github.com/hinksmon/Simple-Office-Network-using-Packet-Tracer)">Simple Office Network using Packet Tracer</a>|
-| Creating a Honeynet and monitoring  and geotagging traffic to the honeynet       | <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a> |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Creating a Honeynet and monitoring  and geotagging traffic to the honeynet | <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a> |
+| Nessus Vulnerability Management | <a href="https://github.com/hinksmon/Nessus-Vulnerability-Management-Lab">Nessus-Vulnerability-Management-Lab</a> |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab
 
@@ -57,3 +57,4 @@ My journey in learning everything I can about computers has led me to develop a 
 - <a href="https://github.com/hinksmon/Simple-SIEM-">Simple Elastic SIEM Lab</a>
 - <a href="https://github.com/hinksmon/Simple-Office-Network-using-Packet-Tracer)">Simple Office Network using Packet Tracer</a>
 - <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a>
+- <a href="https://github.com/hinksmon/Nessus-Vulnerability-Management-Lab">Nessus-Vulnerability-Management-Lab

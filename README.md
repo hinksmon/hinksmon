@@ -15,7 +15,7 @@ My journey in learning everything I can about computers has led me to develop a 
 | Creating and Configuring a Network | <a href="https://github.com/hinksmon/Simple-Office-Network-using-Packet-Tracer)">Simple-Office-Network-using-Packet-Tracer</a>|
 | Creating a Honeynet and monitoring  and geotagging traffic to the honeynet | <a href="https://github.com/hinksmon/Implementing-A-SOC-and-Honeynet-In-Azure1)">Implementing-A-SOC-and-Honeynet-In-Azure</a> |
 | Nessus Vulnerability Management | <a href="https://github.com/hinksmon/Nessus-Vulnerability-Management-Lab">Nessus-Vulnerability-Management-Lab</a> |
-| Active Directory Lab Home Lab  | <a href="https://github.com/hinksmon/Active-Directory-Home-Lab-">Active-Directory-Home-Lab</a>|
+| Active Directory Home Lab  | <a href="https://github.com/hinksmon/Active-Directory-Home-Lab-">Active-Directory-Home-Lab</a>|
  
 
 ## Tools
